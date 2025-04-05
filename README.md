@@ -10,7 +10,7 @@ I'm Matheus, a Computer Science student at UNESP and a web developer, learning m
 - Eager to learn and create compelling projects
 
 ### Languages and Main Tech Stack
-<img width="480" alt="techStack" src="https://github.com/user-attachments/assets/8d0343a7-640e-4bb3-9b80-fd3ce55ea366" />
+<img width="360" alt="techStack" src="https://github.com/user-attachments/assets/8d0343a7-640e-4bb3-9b80-fd3ce55ea366" />
 
 ## Projects I'm working on
 
