@@ -14,4 +14,4 @@ I'm Matheus, a Computer Science student at UNESP and a web developer, learning m
 
 ## Projects I'm working on
 
-### [TTRPG Dashboard](github.com/mathxvs/rpg-dashboard): A web-app for character sheets and DM dashboard for a tabletop RPG game
+### [TTRPG Dashboard](rpg-dashboard): A web-app for character sheets and DM dashboard for a tabletop RPG game
