@@ -1,17 +1,14 @@
-# Hello, There! 👋
+# Welcome! 👋
 
-I'm Matheus, a Computer Science student at UNESP and a web developer, learning my way into becoming a software and game developer.
+My name is Matheus. I am an undergraduate from Brazil studying Computer Science at UNESP, a web developer and web designer. Also, I am interested in game and software development. I've been messing around with web dev and general programming for over 4 years now.
 
-### About me 👨‍💻
-- 18 years old
-- 🇧🇷 Brazilian, based on Bauru (São Paulo)
-- 🎓 First semester in Computer Science at UNESP (State University of São Paulo)
+### About me
+- 19 years old
+- 🇧🇷 Brazilian
+- 🎓 Third semester in Computer Science at UNESP (State University of São Paulo)
 - 🌐 C2 level English
-- Eager to learn and create compelling projects
 
-### Languages and Main Tech Stack
-<img width="360" alt="techStack" src="https://github.com/user-attachments/assets/8d0343a7-640e-4bb3-9b80-fd3ce55ea366" />
+### Projects I'm working on
 
-## Projects I'm working on
-
-### [TTRPG Dashboard](rpg-dashboard): A web-app for character sheets and DM dashboard for a tabletop RPG game
+- **TTRPG Sheet and Dashboard** - A web-app for character sheets and Game Master dashboard for a tabletop RPG game
+- **C-TUIX** - A C terminal UI library for interactive prompts and component-based interfaces (inspired by [Charm](https://github.com/charmbracelet))
