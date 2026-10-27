@@ -5,7 +5,7 @@ My name is Matheus. I am an undergraduate from Brazil studying Computer Science 
 ### About me
 - 19 years old
 - 🇧🇷 Brazilian
-- 🎓 Third semester in Computer Science at UNESP (State University of São Paulo)
+- 🎓 Fourth semester in Computer Science at UNESP (State University of São Paulo)
 - 🌐 C2 level English
 
 ### Projects I'm working on
